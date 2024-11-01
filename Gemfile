@@ -62,3 +62,7 @@ gem 'devise'
 gem 'cancancan'
 gem 'draper'
 gem 'pundit'
+
+gem 'sassc'
+gem 'ransack'
+
